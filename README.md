@@ -1,1 +1,11 @@
-*** JSP Training Program  2021 \n I can:\n -Sing a son\n -Do a programming things \n JS ES6, React, Angular, Node.JS, .NET, Ruby, C# and GameDev with my favourite JS \n -Yes, it was a joke, I`m useless :( \n But, I`m gonna teach some programming stuff to do, so, will do my best \n Future GOD of Node.JS \n -Or maybe something else -_- \n \ you for attention. Have a good day! 
+# JSP_Training_Program__2021
+
+## I can:
+- Sing a son
+- Do a programming things: JS ES6, React, Angular, Node.JS, .NET, Ruby, C# and GameDev with my favourite JS 
+- Yes, it was a joke, I`m useless :( 
+- But, I`m gonna teach some programming stuff to do, so, will do my best 
+- Future GOD of Node.JS 
+- Or maybe something else -_- 
+
+> Thank you for attention. Have a good day! See ya`!
