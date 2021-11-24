@@ -19,7 +19,7 @@ const power = (number, pow) => {
 // console.log('2^0 = ' + power(2, 0));
 // console.log('2^-1 = ' + power(2, -1));
 // console.log('2^-2 = ' + power(2, -2));
-// console.log('2^1 = ' + power(2, -3));
+// console.log('2^-3 = ' + power(2, -3));
 
 
 
